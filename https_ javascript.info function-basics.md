@@ -1,4 +1,7 @@
-﻿## [Tasks](https://javascript.info/function-basics#tasks)
+##White Board Notes
+![](https://github.com/shivendrarox/js-info/blob/master/notes/fumction%20expressions.jpg)
+--
+## [Tasks](https://javascript.info/function-basics#tasks)
 
 ### [Is "else" required?](https://javascript.info/function-basics#is-else-required)
 
