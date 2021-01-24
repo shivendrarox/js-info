@@ -1,5 +1,5 @@
 **White Board Notes**
-![Logical Operators](https://gist.githubusercontent.com/shivendrarox/66c0a7f1c3c815575a7a88d51b278ce2/raw/8c0c39ced251daddb7675ddf6cfd80810d494e21/js-info-logical-operators.jpg)
+![Logical Operators](https://github.com/shivendrarox/js-info/blob/master/js-info-logical-operators/js-info-logical-operators.jpg)
 ___
 ## [Tasks](https://javascript.info/logical-operators#tasks)
 
