@@ -1,3 +1,6 @@
+**White Board Notes**
+![Logical Operators](https://github.com/shivendrarox/js-info/blob/master/js-info-logical-operators/js-info-logical-operators.jpg)
+___
 ## [Tasks](https://javascript.info/logical-operators#tasks)
 
 ### [What's the result of OR?](https://javascript.info/logical-operators#what-s-the-result-of-or)
