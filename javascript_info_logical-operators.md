@@ -1,5 +1,6 @@
 **White Board Notes**
-![Logical Operators](https://github.com/shivendrarox/js-info/blob/master/js-info-logical-operators/js-info-logical-operators.jpg)
+![Logical Operators](https://github.com/shivendrarox/js-info/blob/master/notes/js-info-logical-operators.jpg)
+![OR and &&](https://github.com/shivendrarox/js-info/blob/master/notes/logical%20operators.jpg)
 ___
 ## [Tasks](https://javascript.info/logical-operators#tasks)
 
