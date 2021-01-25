@@ -15,6 +15,7 @@ while (i) {
   alert( i-- );
 }```
 
+---
 solution
 ![blank img](blank.jpg)
 
